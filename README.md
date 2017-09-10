@@ -12,6 +12,13 @@ for you. Do try it. Might inspire you to do better and fix this problem
 once and for all.
 ``` 
 
+## Questions?
+
+Post an issue with a question.
+Be nice and clear.
+I will answer them as time permits.
+Know that the idea of whyql is currently fluid and will change.
+
 ## Intended audience
 
 Myself.
@@ -23,7 +30,6 @@ MIT. No patents BS here...
 ## Issues, PRs, etc.
 
 Don't. This is merely an experiment.
-
 
 ## About the name
 
