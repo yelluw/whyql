@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="whyql.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="152.79628"
+     inkscape:cy="853.52179"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g886"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <rect
+         y="-37.621449"
+         x="-100.53026"
+         height="179.07057"
+         width="411.06052"
+         id="rect859"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.05800009;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(-36.449978)"
+         id="g873">
+        <g
+           id="g857"
+           transform="matrix(0.86700815,0,0,0.86700815,240.51878,-18.08561)">
+          <path
+             sodipodi:nodetypes="ccccscsccccccsc"
+             inkscape:connector-curvature="0"
+             id="path826"
+             d="m -84.205448,113.73831 c 0.0016,-1.42072 -4.161134,-25.865725 -2.468503,-35.48372 l 3.077473,-17.487256 -6.180103,-6.376243 c -3.399055,-3.506936 -6.180087,-7.010514 -6.180087,-7.785753 0,-0.77524 3.719747,-3.307196 8.266114,-5.626569 6.287672,-3.207739 11.891323,-5.781227 10.669978,-9.482801 -2.56889,-7.785628 -2.843617,-9.796924 2.397492,-2.089081 8.64693,-2.431678 21.131892,2.73197 21.45029,2.982841 7.454319,-8.38209 3.934415,-3.003733 1.918182,4.455975 -0.802289,3.978078 -2.345169,16.997209 -3.428656,28.931444 -1.083449,11.934215 -2.485888,24.720862 -3.116522,28.414796 l -2.379686,19.663407 h -12.9392 c -10.948102,0 -11.088777,1.71875 -11.086772,-0.11704 z"
+             style="fill:#000000;stroke-width:2.0665307" />
+          <ellipse
+             ry="2.7403276"
+             rx="2.4834216"
+             cy="38.143002"
+             cx="-70.768356"
+             id="path850"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7775625;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <ellipse
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7775625;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="ellipse852"
+             cx="-64.569542"
+             cy="38.709965"
+             rx="2.4834216"
+             ry="2.7403276" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:132.94702148px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.2157836px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-33.858334"
+           y="99.848129"
+           id="text848"><tspan
+             sodipodi:role="line"
+             id="tspan846"
+             x="-33.858334"
+             y="99.848129"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';fill:#ffffff;stroke:#000000;stroke-width:2.2157836px">whyql</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path861"
+         d="M -100.26299,-12.498113 H 310.26299"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text865"
+         y="-19.981659"
+         x="6.7960095"
+         style="font-style:normal;font-weight:normal;font-size:15.875px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PlaytimeWithHotToddiesOblique;-inkscape-font-specification:PlaytimeWithHotToddiesOblique;stroke-width:0.26458332px"
+           y="-19.981659"
+           x="6.7960095"
+           id="tspan863"
+           sodipodi:role="line">Frontend &lt;=&gt; Backend Synergy</tspan></text>
+    </g>
+  </g>
+</svg>
