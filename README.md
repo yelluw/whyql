@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/yelluw/whyql/master/whyql.png">
+
 # whyql
 whyql is a random experiment inspired by graphql and my desire to find something better than rest.
 
